@@ -1,0 +1,2 @@
+# Null-aware operator and unexpected behavior in Dart
+This repository demonstrates a potential issue when using the null-aware operator ?. in Dart. The code may lead to unexpected behavior due to the potential absence of null checks. Refer to the bug.dart file for the initial code and bugSolution.dart for a solution. 
